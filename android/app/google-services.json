@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994766573383",
+    "project_id": "cars-9b80b",
+    "storage_bucket": "cars-9b80b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994766573383:android:55112b2546a699657e0662",
+        "android_client_info": {
+          "package_name": "tech.synelia.cars.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADL84ZrnI3rZd89L1xNFDZ2aTebwnyBs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
